@@ -56,16 +56,16 @@ Market-wise Sales
 
 The project follows a structured data analytics pipeline:
 
-- 1. Data Collection
+1. Data Collection
 Imported supply chain dataset into Power BI
-- 2. Data Cleaning & Preparation
+2. Data Cleaning & Preparation
 Removed inconsistencies and null values
 Standardized columns (dates, regions, categories)
 Created calculated fields (e.g., delay, profit impact)
-- 3. Data Modeling
+3. Data Modeling
 Established relationships between tables
 Created measures using DAX (Sales, Profit, Delay, KPIs)
-- 4. Dashboard Development
+4. Dashboard Development
 
 Built 6 interactive dashboards:
 
@@ -79,27 +79,27 @@ Built 6 interactive dashboards:
 Used bar charts, line charts, maps, scatter plots, KPI cards
 Applied filters for dynamic exploration
 ## 5. Project Insights
-Sales & Market Insights
-Europe is the top-performing market, contributing the highest revenue
-Sales are unevenly distributed, indicating dependency on specific regions
-Shipping & Logistics Insights
-Average shipping time is around 3.5 days
-Certain regions and states show higher delivery delays, indicating inefficiencies
-Standard shipping has longer delays compared to faster modes
-Customer Insights
-The Consumer segment contributes over 50% of total sales
-Customer behavior is highly influenced by delivery performance
-Product Insights
-A few products dominate sales, indicating high dependency on top items
-Some categories are more sensitive to delays and disruptions
-Disruption Insights
-External factors like Trade War, Oil Price Collapse, and Natural Disasters impact:
-Sales trends
-Profit margins
-Delivery efficiency
-Simulations help predict potential business risks
-Delay vs Profit Relationship
-Increased shipping delays can negatively impact profit
+* Sales & Market Insights
+- Europe is the top-performing market, contributing the highest revenue
+- Sales are unevenly distributed, indicating dependency on specific regions
+- Shipping & Logistics Insights
+- Average shipping time is around 3.5 days
+- Certain regions and states show higher delivery delays, indicating inefficiencies
+- Standard shipping has longer delays compared to faster modes
+* Customer Insights
+- The Consumer segment contributes over 50% of total sales
+- Customer behavior is highly influenced by delivery performance
+* Product Insights
+- A few products dominate sales, indicating high dependency on top items
+- Some categories are more sensitive to delays and disruptions
+* Disruption Insights
+- External factors like Trade War, Oil Price Collapse, and Natural Disasters impact:
+- Sales trends
+- Profit margins
+- Delivery efficiency
+- Simulations help predict potential business risks
+- Delay vs Profit Relationship
+- Increased shipping delays can negatively impact profit
 However, high-demand products may remain profitable despite delays
 ## 6. Final Conclusion
 
