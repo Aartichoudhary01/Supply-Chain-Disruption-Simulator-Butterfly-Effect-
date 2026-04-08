@@ -6,11 +6,11 @@ The objective of this project is to build an interactive Supply Chain Simulator 
 
 ### The project aims to:
 
-Monitor sales, profit, and shipping performance
-Analyze customer and product behavior
-Identify regional inefficiencies
-Simulate real-world disruptions (e.g., Trade War, Oil Price Collapse)
-Enable data-driven decision-making for supply chain optimization
+- Monitor sales, profit, and shipping performance
+- Analyze customer and product behavior
+- Identify regional inefficiencies
+- Simulate real-world disruptions (e.g., Trade War, Oil Price Collapse)
+- Enable data-driven decision-making for supply chain optimization
 ## 2. Dataset Used
 
 The dataset used in this project is a global supply chain dataset containing detailed transactional and logistics information, including:
@@ -29,14 +29,14 @@ This dataset enables both historical analysis and simulation-based forecasting.
 
 The dashboards are designed to answer key business questions through important KPIs:
 
-Key Questions
-Which regions and markets generate the highest sales?
-How do shipping delays affect sales and profit?
-Which products and categories perform the best?
-How do customer segments contribute to revenue?
-What is the impact of disruptions on business performance?
-Which regions are most vulnerable to delays and risks?
-Key KPIs
+## Key Questions
+- Which regions and markets generate the highest sales?
+- How do shipping delays affect sales and profit?
+- Which products and categories perform the best?
+- How do customer segments contribute to revenue?
+- What is the impact of disruptions on business performance?
+- Which regions are most vulnerable to delays and risks?
+## Key KPIs
 Total Sales
 Total Profit
 Total Orders
@@ -56,25 +56,25 @@ Market-wise Sales
 
 The project follows a structured data analytics pipeline:
 
-1. Data Collection
+- 1. Data Collection
 Imported supply chain dataset into Power BI
-2. Data Cleaning & Preparation
+- 2. Data Cleaning & Preparation
 Removed inconsistencies and null values
 Standardized columns (dates, regions, categories)
 Created calculated fields (e.g., delay, profit impact)
-3. Data Modeling
+- 3. Data Modeling
 Established relationships between tables
 Created measures using DAX (Sales, Profit, Delay, KPIs)
-4. Dashboard Development
+- 4. Dashboard Development
 
 Built 6 interactive dashboards:
 
-Overview Dashboard – Overall performance summary
-Shipping Analysis – Delivery performance & delays
-Sales & Profit Impact – Effect of disruptions
-Customer & Product Impact – Customer behavior & product insights
-Regional Analysis – Geographic performance
-Supply Chain Simulator – Scenario-based analysis
+* Overview Dashboard – Overall performance summary
+* Shipping Analysis – Delivery performance & delays
+* Sales & Profit Impact – Effect of disruptions
+* Customer & Product Impact – Customer behavior & product insights
+* Regional Analysis – Geographic performance
+* Supply Chain Simulator – Scenario-based analysis
 5. Visualization
 Used bar charts, line charts, maps, scatter plots, KPI cards
 Applied filters for dynamic exploration
@@ -107,10 +107,10 @@ The Supply Chain Simulator – Butterfly Effect project successfully demonstrate
 
 This project provides:
 
-End-to-end visibility into supply chain operations
-Actionable insights for improving logistics and delivery
-Customer and product-level intelligence
-Predictive capabilities through simulation
+- End-to-end visibility into supply chain operations
+- Actionable insights for improving logistics and delivery
+- Customer and product-level intelligence
+- Predictive capabilities through simulation
 
 By integrating multiple dashboards into a single solution, it enables businesses to:
 
