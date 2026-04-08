@@ -48,23 +48,29 @@ The dashboards are designed to answer key business questions through important K
 - Category-wise Sales
 - Market-wise Sales
 
-## Overall Overview
+ ## - Overall Overview
 
 <img width="1206" height="680" alt="Screenshot 2026-04-07 115539" src="https://github.com/user-attachments/assets/c5b1f00c-7cdf-409f-81d7-16ed9f087f1f" />
 
-## Shipping And Disruption Analysis
+ ## - Shipping And Disruption Analysis
 
 <img width="1209" height="680" alt="Screenshot 2026-04-07 123045" src="https://github.com/user-attachments/assets/33f8b8ed-777a-45b9-b997-aa31741f8c2e" />
 
-## Sales And Profit Impact
+ ## - Sales And Profit Impact
 
 <img width="1215" height="671" alt="Screenshot 2026-04-07 124137" src="https://github.com/user-attachments/assets/3a06e7a9-ce99-4c68-b8a0-0de1c11e9f07" />
 
-## Customer And Product Impact
+ ## - Customer And Product Impact
 
 <img width="1208" height="682" alt="Screenshot 2026-04-07 125054" src="https://github.com/user-attachments/assets/aa41b3c0-87a1-429c-926d-145aa1f8573f" />
 
+ ## - Regional Disruption Analysis
 
+<img width="1207" height="681" alt="Screenshot 2026-04-07 125350" src="https://github.com/user-attachments/assets/01271ebf-c9f5-4e53-8f17-d27cc78ce4dc" />
+
+ ## - Supply Chain Disruption Simulator
+
+<img width="1207" height="676" alt="Screenshot 2026-04-07 125747" src="https://github.com/user-attachments/assets/da357760-652e-49d9-b82c-9572b315cabc" />
 
 ## 4. Process
 
