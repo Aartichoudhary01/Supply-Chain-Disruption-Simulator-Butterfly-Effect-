@@ -79,20 +79,20 @@ Built 6 interactive dashboards:
 Used bar charts, line charts, maps, scatter plots, KPI cards
 Applied filters for dynamic exploration
 ## 5. Project Insights
-* Sales & Market Insights
+  ## Sales & Market Insights
 - Europe is the top-performing market, contributing the highest revenue
 - Sales are unevenly distributed, indicating dependency on specific regions
 - Shipping & Logistics Insights
 - Average shipping time is around 3.5 days
 - Certain regions and states show higher delivery delays, indicating inefficiencies
 - Standard shipping has longer delays compared to faster modes
-* Customer Insights
+  ## Customer Insights
 - The Consumer segment contributes over 50% of total sales
 - Customer behavior is highly influenced by delivery performance
-* Product Insights
+  ## Product Insights
 - A few products dominate sales, indicating high dependency on top items
 - Some categories are more sensitive to delays and disruptions
-* Disruption Insights
+  ## Disruption Insights
 - External factors like Trade War, Oil Price Collapse, and Natural Disasters impact:
 - Sales trends
 - Profit margins
