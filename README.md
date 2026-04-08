@@ -60,6 +60,10 @@ The dashboards are designed to answer key business questions through important K
 
 <img width="1215" height="671" alt="Screenshot 2026-04-07 124137" src="https://github.com/user-attachments/assets/3a06e7a9-ce99-4c68-b8a0-0de1c11e9f07" />
 
+## Customer And Product Impact
+
+<img width="1208" height="682" alt="Screenshot 2026-04-07 125054" src="https://github.com/user-attachments/assets/aa41b3c0-87a1-429c-926d-145aa1f8573f" />
+
 
 
 ## 4. Process
