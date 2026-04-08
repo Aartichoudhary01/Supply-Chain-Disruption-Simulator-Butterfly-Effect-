@@ -37,16 +37,16 @@ The dashboards are designed to answer key business questions through important K
 - What is the impact of disruptions on business performance?
 - Which regions are most vulnerable to delays and risks?
 ## Key KPIs
-Total Sales
-Total Profit
-Total Orders
-Average Shipping Days
-Late Delivery Risk
-Sales Impact %
-Profit Impact %
-Order Status Distribution
-Category-wise Sales
-Market-wise Sales
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Shipping Days
+- Late Delivery Risk
+- Sales Impact %
+- Profit Impact %
+- Order Status Distribution
+- Category-wise Sales
+- Market-wise Sales
 
 ## overall Overview
 
